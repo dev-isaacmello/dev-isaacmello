@@ -1,92 +1,41 @@
-# Hi, I’m Isaac.
+# Isaac Mello
 
-**Full-Stack Software Engineer | AI Systems Engineer**
+**Full-Stack Software Engineer | AI Systems**
 
-I design and deliver scalable, production-grade systems at the intersection of distributed software architecture and applied artificial intelligence.
+I build scalable, production-grade systems combining distributed architecture and applied AI.
 
-## About Me
+## About
 
-My journey into technology started with gaming. Curious about how systems worked, I began developing GTA V mods and scripts using C++, XML, and LUA an experience that shaped my problem-solving mindset and passion for building.
+Engineer focused on designing reliable, high-performance systems across the stack.  
+Experience across frontend, backend, and AI systems (LLMs, agents, automation).
 
-I later specialized in modern frontend engineering (JavaScript, Next.js, Tailwind) before expanding into backend systems with C#, Kotlin, Python, and Dart. My first professional experience introduced me to mobile development, building Android applications with Flutter and Kotlin.
+Currently building intelligent systems that bridge machine learning models with real-world production constraints.
 
-Today, I work as a Full Stack Developer and AI Engineer, designing intelligent agents and automation systems in Python to solve real-world problems. I follow a simple principle: learn something new every day.
-
-I’m currently pursuing a degree in Systems Analysis and Development at ULBRA Torres. Outside technology, I’m a Taekwondo instructor and professional athlete. Discipline, focus, and continuous improvement define both my training and my engineering practice.
-
-## Core Languages
+## Core Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin" height="40" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" />
-  <img src="https://skillicons.dev/icons?i=go" height="40" />
+  <img src="https://skillicons.dev/icons?i=python" height="35" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="35" />
+  <img src="https://skillicons.dev/icons?i=cs" height="35" />
+  <img src="https://skillicons.dev/icons?i=go" height="35" />
+  <img src="https://skillicons.dev/icons?i=java" height="35" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="35" />
+  <img src="https://skillicons.dev/icons?i=react" height="35" />
+  <img src="https://skillicons.dev/icons?i=ts" height="35" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="35" />
+  <img src="https://skillicons.dev/icons?i=aws" height="35" />
+  <img src="https://skillicons.dev/icons?i=docker" height="35" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="35" />
 </p>
 
-I select languages deliberately, balancing concurrency models, ecosystem maturity, performance characteristics, and deployment constraints.
+## Expertise
 
-## AI & Intelligent Systems
-
-- End-to-end ML pipelines  
-- Deep Learning systems  
-- LLM applications & RAG architectures  
-- AI agents & orchestration workflows  
-- Prompt engineering & evaluation  
-- Production model integration  
-- Observability, latency & cost control  
-
-I bridge research-grade models with production realities.
-
-## Backend & Architecture
-
+- Distributed systems & API design  
+- AI systems (LLMs, RAG, agents)  
 - Clean Architecture, SOLID, DDD  
-- High-performance APIs  
-- Secure authentication flows  
-- Async systems & structured concurrency  
-- ORM optimization & PostgreSQL tuning  
-- Distributed system fundamentals  
+- Async and concurrent systems  
+- Performance, observability, cost optimization
 
-My backend philosophy centers on explicit domain modeling and operational robustness.
+## Current Focus
 
-## Frontend Systems
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" />
-</p>
-
-- Component-driven architecture  
-- Type-safe systems  
-- Performance-first rendering  
-- Scalable state patterns  
-
-I approach frontend as system design, not surface implementation.
-
-## Cloud & DevOps
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="40" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="40" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" />
-</p>
-
-- AWS infrastructure  
-- Containerization  
-- CI/CD engineering  
-- Production deployment  
-- Observability & reliability  
-
-I build systems that are reproducible, deployable, and operationally transparent.
-
-## GitHub Activity
-
-<p align="left">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=dev-isaacmello&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
-</p>
+Designing AI-powered systems and automation pipelines for production environments.
